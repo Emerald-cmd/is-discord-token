@@ -1,0 +1,25 @@
+{
+    "name": "is-discord-token",
+    "version": "1.0.0",
+    "description": "Check if string is a discord token",
+    "main": "index.js",
+    "scripts": {
+      "test": "start"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/emerald-cmd/is-discord-token.git"
+    },
+    "keywords": [
+      "discord",
+      "discord",
+      "token",
+      "token"
+    ],
+    "author": "@emcrald",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/emerald-cmd/is-discord-token/issues"
+    },
+    "homepage": "https://github.com/emerald-cmd/is-discord-token#readme"
+  }
