@@ -11,9 +11,9 @@
         "url": "git+https://github.com/emerald-cmd/is-discord-token.git"
     },
     "keywords": [
+        "discord token",
+        "is discord token",
         "discord",
-        "discord",
-        "token",
         "token"
     ],
     "author": "@emcrald",
