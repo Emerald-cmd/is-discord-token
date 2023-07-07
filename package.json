@@ -1,6 +1,6 @@
 {
     "name": "is-discord-token",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "description": "Check if string is a discord token",
     "main": "index.js",
     "scripts": {
